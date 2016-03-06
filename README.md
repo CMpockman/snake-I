@@ -10,3 +10,6 @@
 ###代码说明：
 使用的cocos框架为quick-3.5，下载地址：http://www.cocos.com/download/cocos2d-lua/
 工程中所有新添加的代码在目录snack-I/src/app中。
+
+效果图：
+<img src="https://github.com/gang544043963/snake-I/blob/master/snake.png?raw=true" alt="CXLSlideList Screenshot" width="550" height="320"/>
